@@ -1,0 +1,49 @@
+body
+{
+    background-color: #ff8585;
+}
+.img
+{
+  background-color: #ff4646;
+  height: 150px;
+  width : 150px;
+  border-style : solid;
+  border-width : 15px;
+  border-radius: 15px;
+  border-color: #ff4646;
+}
+.container
+{
+  display: flex;
+  width : 100%;
+  justify-content: space-around;
+  position: relative;
+  top : 40vh;
+}
+h1
+{
+  font-family : 'Comic Sans MS', 'Comic Sans', cursive;
+  font-size: 40px;
+  width : 20vw;
+  color : #fff5c0;
+  position: absolute;
+  text-align: center;
+  top : 50px;
+  left : 500px;
+}
+h2
+{
+  font-family : 'Comic Sans MS', 'Comic Sans', cursive;
+  font-size: 35px;
+  width : 20vw;
+  color : #fff5c0;
+  position: absolute;
+  text-align: center;
+  top : 75vh;
+  left : 40vw;
+}
+.click
+{
+  background-color: #ffb396;
+  border-color: rgba(0,0,0, 0.9);
+}
